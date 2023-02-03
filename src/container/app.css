@@ -1,0 +1,43 @@
+.card{
+  width: 25%;
+  height: 435px;
+  margin-top: 30px;
+}
+.title-roboto{
+  font-family: fantasy;
+  letter-spacing: 1.5px;
+  font-weight: 600;
+  color: rgb(253, 253, 254);
+  font-size: 40px;
+}
+.loading{
+  text-align: center;
+  margin-top: 50px;
+  font-size: 50px;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+}
+.titles{
+  font-size: 10px;
+}
+
+.boxs{
+  width: 1150px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-right: auto;
+  justify-content: space-between;
+  margin-left: auto;
+}
+.loadings{
+  width:800px;
+  margin-top: 70px;
+margin-left: auto;
+margin-right: auto;
+}
+.boxssss{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,7 +1,6 @@
 import React from "react";
 import CardBox from "../components/CardBox";
 import Search from "../components/Search";
-import { robots } from "../components/robots";
 import loading from "../img/loading.gif"
 import "./app.css";
 class App extends React.Component {
